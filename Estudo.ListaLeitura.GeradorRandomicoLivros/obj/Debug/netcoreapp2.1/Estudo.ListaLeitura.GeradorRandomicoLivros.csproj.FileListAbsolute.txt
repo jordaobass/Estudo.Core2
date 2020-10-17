@@ -1,0 +1,17 @@
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Estudo.ListaLeitura.GeradorRandomicoLivros.deps.json
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Estudo.ListaLeitura.GeradorRandomicoLivros.runtimeconfig.json
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Estudo.ListaLeitura.GeradorRandomicoLivros.runtimeconfig.dev.json
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Estudo.ListaLeitura.GeradorRandomicoLivros.dll
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Estudo.ListaLeitura.GeradorRandomicoLivros.pdb
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Estudo.WebAPI.DAL.Livros.dll
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Estudo.WebAPI.Model.dll
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Estudo.WebAPI.DAL.Livros.pdb
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Estudo.WebAPI.Model.pdb
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Estudo.ListaLeitura.GeradorRandomicoLivros.csprojAssemblyReference.cache
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Estudo.ListaLeitura.GeradorRandomicoLivros.AssemblyInfoInputs.cache
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Estudo.ListaLeitura.GeradorRandomicoLivros.AssemblyInfo.cs
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Estudo.ListaLeitura.GeradorRandomicoLivros.csproj.CoreCompileInputs.cache
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Estudo.ListaLeitura.GeradorRandomicoLivros.csproj.CopyComplete
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Estudo.ListaLeitura.GeradorRandomicoLivros.dll
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Estudo.ListaLeitura.GeradorRandomicoLivros.pdb
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Estudo.ListaLeitura.GeradorRandomicoLivros.genruntimeconfig.cache

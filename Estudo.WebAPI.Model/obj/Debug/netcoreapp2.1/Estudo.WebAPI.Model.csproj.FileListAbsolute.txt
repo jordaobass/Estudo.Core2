@@ -1,0 +1,9 @@
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.Model\bin\Debug\netcoreapp2.1\Estudo.WebAPI.Model.deps.json
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.Model\bin\Debug\netcoreapp2.1\Estudo.WebAPI.Model.dll
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.Model\bin\Debug\netcoreapp2.1\Estudo.WebAPI.Model.pdb
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.Model\obj\Debug\netcoreapp2.1\Estudo.WebAPI.Model.csprojAssemblyReference.cache
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.Model\obj\Debug\netcoreapp2.1\Estudo.WebAPI.Model.AssemblyInfoInputs.cache
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.Model\obj\Debug\netcoreapp2.1\Estudo.WebAPI.Model.AssemblyInfo.cs
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.Model\obj\Debug\netcoreapp2.1\Estudo.WebAPI.Model.csproj.CoreCompileInputs.cache
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.Model\obj\Debug\netcoreapp2.1\Estudo.WebAPI.Model.dll
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.Model\obj\Debug\netcoreapp2.1\Estudo.WebAPI.Model.pdb

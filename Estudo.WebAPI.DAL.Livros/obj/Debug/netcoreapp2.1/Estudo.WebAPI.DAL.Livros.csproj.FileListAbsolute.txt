@@ -1,0 +1,12 @@
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Estudo.WebAPI.DAL.Livros.deps.json
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Estudo.WebAPI.DAL.Livros.dll
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Estudo.WebAPI.DAL.Livros.pdb
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Estudo.WebAPI.Model.dll
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Estudo.WebAPI.Model.pdb
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Estudo.WebAPI.DAL.Livros.csprojAssemblyReference.cache
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Estudo.WebAPI.DAL.Livros.AssemblyInfoInputs.cache
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Estudo.WebAPI.DAL.Livros.AssemblyInfo.cs
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Estudo.WebAPI.DAL.Livros.csproj.CoreCompileInputs.cache
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Estudo.WebAPI.DAL.Livros.csproj.CopyComplete
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Estudo.WebAPI.DAL.Livros.dll
+C:\PROJETOS\estudo\Alura\Estudo.Core_2_1\Estudo.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Estudo.WebAPI.DAL.Livros.pdb

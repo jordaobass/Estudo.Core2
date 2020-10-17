@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Estudo.WebAPI.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Alura.ListaLeitura.Api.Controllers.Livros2Controller">
+            <summary>
+            Serviços relacionados a livros.
+            </summary>
+        </member>
+    </members>
+</doc>

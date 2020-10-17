@@ -1,0 +1,8 @@
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.deps.json
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.CoreCompileInputs.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfoInputs.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfo.cs
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
